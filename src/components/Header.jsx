@@ -50,7 +50,7 @@ function Header() {
       <div className="navbar-right">
         <ul>
           <li className="navbar-email" onClick={handleToggle}>
-            platzi@example.com
+            platzi@exampl.com
           </li>
           <li
             className="navbar-shopping-cart"
